@@ -3,3 +3,39 @@ body {
   height: 100%;
   margin: 0;
 }
+header {
+  text-align: center;
+}
+img {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+
+}
+a {
+  padding-right: 10px;
+  padding-left: 10px;
+  background-color: bisque;
+}
+a:hover {
+  color: rgb(212, 159, 95) ;
+}
+.address {
+  text-align: center;
+  font-size: small;
+}
+#featured-property p{
+  text-align: center;
+  border: solid;
+  border-color: antiquewhite;
+  background-color: beige;
+  width: 800px;
+  margin: 8px auto;
+  
+  
+}
+#details div{
+  float: left;
+  background-color: blanchedalmond;
+  width: 25%;
+}
